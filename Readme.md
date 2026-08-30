@@ -172,15 +172,15 @@ Based on the analysis:
 
 ### Executive Overview
 
-executive-overview.png
+![Executive Overview](executive-overview.png)
 
 ### Sales Analysis
 
-product-customer-analysis.png
+![Sales Analysis](sales-analysis.png)
 
 ### Product & Customer Analysis
 
-sales-analysis.png
+![Product & Customer Analysis](product-customer-analysis.png)
 
 ---
 
